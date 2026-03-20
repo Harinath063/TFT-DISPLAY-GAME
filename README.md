@@ -76,5 +76,6 @@ This project can be simulated using the **Wokwi online simulator**.
 * Sound effects
 
 ## Author
-
+V.Venkata Harinath
+Diploma ECE SVGP TIRUPATI
 Embedded Systems Project using ESP32 and TFT graphics.
